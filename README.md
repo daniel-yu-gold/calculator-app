@@ -10,9 +10,9 @@ the shift totals up into weekly and monthly reports.
 
 | | |
 |---|---|
-| Version | 2.1 |
+| Version | 2.2 |
 | Size | 37,370 bytes |
-| MD5 | `3d59cd3458aed08239e725320985d0a6` |
+| MD5 | `e7ce1aff7ce1f831634c44b8636cf54d` |
 | Package | `com.happyfrog.dailycash` |
 | Requires | Android 7.0 (API 24) or newer |
 
