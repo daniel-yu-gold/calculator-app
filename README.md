@@ -18,6 +18,11 @@ Each release also keeps its own file name, so the link above always serves exact
 | Package | `com.happyfrog.dailycash` |
 | Requires | Android 7.0 (API 24) or newer |
 
+If a browser keeps handing you an older file, use this direct link — it is pinned to the exact commit and can never be stale:
+https://raw.githubusercontent.com/daniel-yu-gold/calculator-app/73ed6a2/DailyCashCalculator-3.3.apk
+
+How to tell what is installed: tap the gear ⚙ in the app — the last line of Settings reads `v3.3 · built 09-03-2026`.
+
 ## Install
 
 1. Open the link above on the tablet and download the file.
