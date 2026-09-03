@@ -6,7 +6,9 @@ the shift totals up into weekly and monthly reports.
 
 ## Download
 
-**[⬇ DailyCashCalculator.apk](https://github.com/daniel-yu-gold/calculator-app/raw/main/DailyCashCalculator.apk)**
+**[⬇ DailyCashCalculator-3.2.apk](https://github.com/daniel-yu-gold/calculator-app/raw/main/DailyCashCalculator-3.2.apk)**
+
+Each release also keeps its own file name, so the link above always serves exactly this version (the unversioned `DailyCashCalculator.apk` can lag a few minutes behind while GitHub's cache refreshes).
 
 | | |
 |---|---|
